@@ -1,0 +1,8 @@
+1. Admin can migrate the database with seeding for 1 user and 1 customer for demo purposes (also includes backup in the root directory).
+2. The landing page is a login page where customers can also register.
+3. After a successful login, customers can create a ticket with an attachment, and they can also reply with an attachment.
+4. When a new ticket is created, the admin receives an email notification.
+5. The admin can review and respond to tickets with attachments.
+6. The admin has the ability to close or cancel a ticket.
+7. When the admin closes a ticket, the customer receives an email alert.
+8. I am using mailtrap for eamil.
